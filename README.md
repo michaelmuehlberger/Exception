@@ -6,3 +6,4 @@ The project also contains a custom Exception and the handling of the custom exce
 # Screenshots of output #
 ![img](resources/Exceptions1.png)
 ![img](resources/Exceptions2.png)
+![img](resources/Exceptions3.png)
